@@ -4,7 +4,7 @@ Backpropagation algorithm from scratch using Tensorflow.
 
 ## Getting Started
 
-Basic implementation of the algorithm for study porpuses. Jupyter Notebook was used to get the code.
+Basic implementation of the algorithm for study purposes. Jupyter Notebook was used to get the code.
 
 ### Prerequisites
 
