@@ -21,7 +21,7 @@ Choose the right .ipynb file and run it.
 
 For instance:
 ```
- BackPropag_Numpy_LeonardoBonifacio.ipynb
+ BackPropag_TensorFlow_LeonardoBonifacio.ipynb
 ```
 
 ## Built With
